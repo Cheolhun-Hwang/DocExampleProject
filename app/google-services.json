@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "130105763544",
+    "firebase_url": "https://testor-b447f.firebaseio.com",
+    "project_id": "testor-b447f",
+    "storage_bucket": "testor-b447f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130105763544:android:45c4b336fc954a8b",
+        "android_client_info": {
+          "package_name": "com.example.minkyung.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130105763544-qf3h06tave1bhv6jhqhqgcqein4maavc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minkyung.practice",
+            "certificate_hash": "9d58518ae775bdabf359afa1c0f48be33bd07525"
+          }
+        },
+        {
+          "client_id": "130105763544-j1hgmvedactiu72i63h6nsc6en32g7aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4jz2Yx-Fw2dxjYvp6uWLF4T1n5Y0hA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130105763544-j1hgmvedactiu72i63h6nsc6en32g7aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130105763544:android:fcfef757a832647b",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130105763544-j1hgmvedactiu72i63h6nsc6en32g7aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4jz2Yx-Fw2dxjYvp6uWLF4T1n5Y0hA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130105763544:android:385b5c00abbf3151",
+        "android_client_info": {
+          "package_name": "com.hch.hooney.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130105763544-6h815einqaq3ima4268t7aj253m0bie2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hch.hooney.testproject",
+            "certificate_hash": "9d58518ae775bdabf359afa1c0f48be33bd07525"
+          }
+        },
+        {
+          "client_id": "130105763544-j1hgmvedactiu72i63h6nsc6en32g7aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4jz2Yx-Fw2dxjYvp6uWLF4T1n5Y0hA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130105763544-j1hgmvedactiu72i63h6nsc6en32g7aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130105763544:android:d5e68d8ef2758e63",
+        "android_client_info": {
+          "package_name": "hch.hooney.docexampleproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130105763544-14sa8pf2u7ekp4t5u37k2os33aouuclt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hch.hooney.docexampleproject",
+            "certificate_hash": "5b1b0b99a41e269e8f52545607105e444820ae70"
+          }
+        },
+        {
+          "client_id": "130105763544-j1hgmvedactiu72i63h6nsc6en32g7aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4jz2Yx-Fw2dxjYvp6uWLF4T1n5Y0hA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130105763544-j1hgmvedactiu72i63h6nsc6en32g7aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

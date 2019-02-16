@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DocExampleProject</string>
+    <string name="title_home">Home</string>
+    <string name="title_map">Map</string>
+    <string name="title_mypage">My Page</string>
+
+    <string name="kakao_native_key">0f57203c334191147508f8891a0965fc</string>
+    <string name="kakao_rest_key">66b956e6d95de5b37f95d995cbbf679c</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
